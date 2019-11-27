@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controllers",
+    "\\models",
+    "\\public",
+    "\\src",
+    "\\src\\services",
+    "\\utils"
+  ],
+  "SelectedNode": "\\utils\\middleware.js",
+  "PreviewInSolutionExplorer": false
+}
